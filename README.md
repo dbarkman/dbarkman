@@ -15,6 +15,7 @@ Everything else happens at [Red Mesa Studios](https://redmesastudios.com), my in
 - **Clark** is my personal AI agent, built in Python on the Claude Agent SDK and MCP. We talk through Telegram. He reads my email, sends a daily digest and follows the news through SignalPost. He's built security-first: per-session tool allowlists, read-and-label-only email access, an append-only action log and secrets in the Keychain.
 - **[ClaudeMeter](https://github.com/dbarkman/ClaudeMeter)** is a macOS menu bar meter for Claude plan usage, so I can pace a long day without opening the usage screen.
 - **[AI News HQ](https://github.com/dbarkman/ainews)** is a topic-matched AI news aggregator with a deliberate volume cap. It's live at [ainews.redmesastudios.com](https://ainews.redmesastudios.com).
+- **[SleeperFFL](https://github.com/dbarkman/SleeperFFL)** is a draft assistant and waiver-wire watcher for Sleeper fantasy football leagues. It ranks players by value over replacement using the league's own scoring, and pushes waiver alerts to my phone.
 - **ScrollForge** is a text RPG run entirely by an AI game master. The GM narrates, voices every character and decides consequences from a world bible. Players can bring their own API key or pick from six AI providers.
 
 ## Apps
@@ -24,6 +25,9 @@ Everything else happens at [Red Mesa Studios](https://redmesastudios.com), my in
 - **[SimpleTV](https://github.com/dbarkman/SimpleTV)** is a calm Android TV home screen I built for my family, with no ads or autoplay. It has search across every service, a YouTube feed, weather, news and market cards, and a family photo screensaver.
 - **[Imposter](https://github.com/dbarkman/Imposter)** is a party word game for Android TV. Everyone joins from their phone's browser, with nothing to install.
 - **Every Earthquake** and **BareWeather** are on the App Store. The [original Every Earthquake iOS source](https://github.com/dbarkman/everyearthquake-ios) is here too.
+- **[Patchwork Valley](https://github.com/dbarkman/PatchworkValley)** is a calm hex puzzle game for iOS, with a SwiftUI HUD over a SpriteKit board. Every game rule lives in a tested Swift package, and levels are seeded so they always deal the same tiles.
+- **[Far Markets](https://github.com/dbarkman/FarMarkets)** is a trading game for phones that you can [play in the browser](https://trader.redmesastudios.com). Travel between markets across three eras: the Age of Sail, the Silk Road and space.
+- **[SimpleCalc](https://github.com/dbarkman/SimpleCalc)** is a small Mac calculator with glass buttons that works entirely from the keyboard.
 - **KiteTails**, a 3D puzzle game, is coming soon.
 
 ## How I work
