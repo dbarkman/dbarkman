@@ -16,6 +16,7 @@ Everything else happens at [Red Mesa Studios](https://redmesastudios.com), my in
 - **[ClaudeMeter](https://github.com/dbarkman/ClaudeMeter)** is a macOS menu bar meter for Claude plan usage, so I can pace a long day without opening the usage screen.
 - **[AI News HQ](https://github.com/dbarkman/ainews)** is a topic-matched AI news aggregator with a deliberate volume cap. It's live at [ainews.redmesastudios.com](https://ainews.redmesastudios.com).
 - **[SleeperFFL](https://github.com/dbarkman/SleeperFFL)** is a draft assistant and waiver-wire watcher for Sleeper fantasy football leagues. It ranks players by value over replacement using the league's own scoring, and pushes waiver alerts to my phone.
+- **[Clams](https://github.com/dbarkman/Clams)** is the code behind [cla.ms](https://cla.ms), a small, friendly URL shortener. It has a site, a JSON API, click stats that never store IP addresses, and a browser extension for Chrome and Safari.
 - **ScrollForge** is a text RPG run entirely by an AI game master. The GM narrates, voices every character and decides consequences from a world bible. Players can bring their own API key or pick from six AI providers.
 
 ## Apps
