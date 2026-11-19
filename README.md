@@ -22,7 +22,7 @@ Everything else happens at [Red Mesa Studios](https://redmesastudios.com), my in
 
 - **Morsel** (in progress) is an iPhone and Apple Watch health tracker where the agent is the product. It logs meals from photos, labels and weights, builds reports, and redesigns the app's screens, cards and goals.
 - **[Just Drink](https://github.com/dbarkman/JustDrink)** is a simple water tracker for iPhone and iPad, built with SwiftUI, SwiftData and CloudKit. Tilt the phone and the water sloshes.
-- **[SimpleTV](https://github.com/dbarkman/SimpleTV)** is a calm Android TV home screen I built for my family, with no ads or autoplay. It has search across every service, a YouTube feed, weather, news and market cards, and a family photo screensaver.
+- **[SimpleTV](https://github.com/dbarkman/SimpleTV)** is a calm Android TV home screen I built for my family, with no ads or autoplay. It has search across every service, a YouTube feed, weather, news and market cards, and a family photo screensaver. I run it on an Onn 4k streaming stick from Walmart: https://cla.ms/2zylQv, but it should run fine on any Android TV stick, just ask your favorite AI agent to help you set it up.
 - **[Imposter](https://github.com/dbarkman/Imposter)** is a party word game for Android TV. Everyone joins from their phone's browser, with nothing to install.
 - **Every Earthquake** and **BareWeather** are on the App Store. The [original Every Earthquake iOS source](https://github.com/dbarkman/everyearthquake-ios) is here too.
 - **[Patchwork Valley](https://github.com/dbarkman/PatchworkValley)** is a calm hex puzzle game for iOS, with a SwiftUI HUD over a SpriteKit board. Every game rule lives in a tested Swift package, and levels are seeded so they always deal the same tiles.
