@@ -19,7 +19,7 @@ Everything else happens at [Red Mesa Studios](https://redmesastudios.com), my in
 
 ## Apps
 
-- **Morsel** (in progress) is an iPhone and Apple Watch health tracker where the agent is the product. It logs meals from photos, labels and weights, builds reports, and redesigns the app's screens, cards and goals.
+- **Morsel** (in progress) is an iPhone and Apple Watch health tracker where the agent is the product. It logs meals from photos, labels and weights, builds reports, and redesigns the app's screens, cards and goals, from the inside.
 - **[Just Drink](https://github.com/dbarkman/JustDrink)** is a simple water tracker for iPhone and iPad, built with SwiftUI, SwiftData and CloudKit. Tilt the phone and the water sloshes.
 - **[SimpleTV](https://github.com/dbarkman/SimpleTV)** is a calm Android TV home screen I built for my family, with no ads or autoplay. It has search across every service, a YouTube feed, weather, news and market cards, and a family photo screensaver.
 - **[Imposter](https://github.com/dbarkman/Imposter)** is a party word game for Android TV. Everyone joins from their phone's browser, with nothing to install.
